@@ -1,5 +1,5 @@
 "use strict";
-
+// npx gulp
 var gulp = require("gulp"),
     newer = require("gulp-newer"),
     imagemin = require("gulp-imagemin"),
